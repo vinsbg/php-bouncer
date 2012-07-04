@@ -1,4 +1,5 @@
 #summary A brief description of the project goals and features
+#labels Featured
 
 = About PHP-Bouncer =
 
