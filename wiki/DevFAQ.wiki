@@ -1,4 +1,5 @@
 #summary A Q/A for prospective Developers
+#labels Featured
 
 = PHP-Bouncer Developer FAQ =
 == How can I become a developer for PHP-Bouncer? ==
