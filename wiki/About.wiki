@@ -5,6 +5,6 @@
 PHP-Bouncer is a php library focused on providing flexible access control in situations where strictly hierarchical access control may not be an option. 
 
 == Development Status ==
-PHP-Bouncer is a brand new project, and is in the beginning stages of development. There are not currently any releases available for direct download, but anyone can check out a read-only copy of the code base at any time`*`. If you are interested in joining the development team feel free to check out the Development FAQ.
+PHP-Bouncer is a brand new project, and is in the beginning stages of development. There are not currently any releases available for direct download, but anyone can check out a read-only copy of the code base at any time`*`. If you are interested in joining the development team feel free to check out the [https://code.google.com/p/php-bouncer/wiki/Dev-faq Development FAQ].
 
 `*`NOTE: Using any version of PHP-Bouncer other than official releases could provide additional functionality or bug fixes, but new and potentially dangerous bugs could be introduced at any time. Use Official versions when possible, and all others at your own risk
