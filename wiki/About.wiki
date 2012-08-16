@@ -8,7 +8,7 @@ access control may not be an option.
 
 == Development Status ==
 PHP-Bouncer is a brand new project, and is in the beginning stages of development. There are not currently any stable releases
-available for direct download, but anyone can check out a read-only copy of the code base at any time`*`. Alternately, a beta release is available for direct download on the project home page. If you are
+available for direct download, but anyone can check out a read-only copy of the code base at any time`*`. Alternately, a release candidate is available for direct download on the project home page. If you are
 interested in joining the development team feel free to check out the
 [https://code.google.com/p/php-bouncer/wiki/DevFAQ Development FAQ].
 
